@@ -1,2 +1,5 @@
 # Portugol-generation
-Codigos Exemplos em Portugo
+Codigos Exemplos em Portugol
+
+##Exemplos de Algoritmos
+
